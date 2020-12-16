@@ -1,9 +1,11 @@
 # el-reverse-table
 Base on element-ui, reverse the row-column
 
-基于element-ui框架的table表格行列转换展示数据
+基于Vue+Element框架的table表格行列转换展示数据
 
-Demo：[Go](https://github.liubing.me/lb-element-table/zh/guide/)
+Demo：[Go](https://game2boy.github.io/)
+
+![image](https://raw.githubusercontent.com/game2boy/el-reverse-table/main/images/20201216144758.png)
 
 ## Project setup
 ```
