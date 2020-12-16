@@ -1,5 +1,5 @@
 # el-reverse-table
-Base on element-ui, reverse the row-column
+Base on Vue+Element, reverse the row-column of a data table
 
 基于Vue+Element框架的table表格行列转换展示数据
 
